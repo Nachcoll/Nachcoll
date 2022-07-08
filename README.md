@@ -37,3 +37,9 @@ After realizing that I saw an opportunity for a change and I took it!
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/nachcoll" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachcoll&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+  </div>
+</div>
