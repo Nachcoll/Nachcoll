@@ -9,7 +9,6 @@ After realizing that I saw an opportunity for a change and I took it!
 <br>Now I’m a full stack developer.
 
 * 🌍  I'm based in Barcelona
-* 🖥️  See my portfolio at [http://nachocg.me/](http://nachocg.me/)
 * ✉️  You can contact me at [nachcoll@gmail.com](mailto:nachcoll@gmail.com)
 * 🥽  I love scuba diving so I might be with some fish right now 🐠
 
