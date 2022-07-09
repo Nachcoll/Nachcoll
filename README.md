@@ -4,9 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I thought coding was just a hobby and that my career should be redirected to something else. Spoiler: big mistake. <br>
+ I thought coding was a hobby and that my career should be redirected to something else. Spoiler: big mistake.
+ <br>
 After realizing that I saw an opportunity for a change and I took it!
-<br>Now I’m a full stack developer.
+<br>Now I’m a full-stack developer. 
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [nachcoll@gmail.com](mailto:nachcoll@gmail.com)
