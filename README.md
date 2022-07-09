@@ -4,10 +4,11 @@ Hi, I'm Nacho ![](https://user-images.githubusercontent.com/18350557/176309783-0
 Full Stack Developer
 --------------------
 
- I thought coding was a hobby and that my career should be redirected to something else. Spoiler: big mistake.
- <br>
-After realizing that I saw an opportunity for a change and I took it!
-<br>Now I’m a full-stack developer. 
+I thought coding was a hobby and that I should redirect my career to something else. Spoiler: big mistake.
+<br>
+After realizing that, I saw an opportunity for a change and took it!
+<br>
+Now I’m a full-stack developer.
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [nachcoll@gmail.com](mailto:nachcoll@gmail.com)
