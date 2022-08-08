@@ -12,7 +12,6 @@ Now I’m a full-stack developer.
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [nachcoll@gmail.com](mailto:nachcoll@gmail.com)
-* 🌐  Check my website at https://nachocg.me/
 * 🥽  I love scuba diving so I might be with some fish right now 🐠
 
 ### TECHSTACK
